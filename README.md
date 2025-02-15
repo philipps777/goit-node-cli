@@ -22,7 +22,7 @@ To check available options, you need to run the following command:
 ```bash
 node index.js --help
 ```
-## Rоманди в терміналі для перевірки
+## Kоманди в терміналі для перевірки
 
 Отримуємо і виводимо весь список контактів у вигляді таблиці (console.table)
 
